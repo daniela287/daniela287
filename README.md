@@ -8,4 +8,4 @@ Electronics student at FEIT Skopje, studying Computer Hardware Engineering and E
 
 **Technologies I've worked with:** Python · TypeScript · React · Next.js · FastAPI · PostgreSQL · scikit-learn · PyTorch
 
-📫 [LinkedIn](https://www.linkedin.com/in/daniela-jovanovska-463884404) · jovanovskadaniela99@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/daniela-jovanovska) · jovanovskadaniela99@gmail.com
